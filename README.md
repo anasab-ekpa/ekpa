@@ -1,2 +1,0 @@
-# ekpa
-Ekpa repository
